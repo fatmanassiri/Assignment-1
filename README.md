@@ -1,6 +1,4 @@
 # Assignment-1
-
-# Assignment-1
 this is the Python Classes i had made
 I have mentioned each code with a comment to it on what it does
 i kept the print and the class and objects seperate, but it still print all
