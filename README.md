@@ -4,7 +4,7 @@ I have mentioned each code with a comment to it on what it does
 i kept the print and the class and objects seperate, but it still print all
 there is no error
 i uploaded the python classes code it is called assignment 1, thats where you will find the code
-its not in readme, but it is in assignment 1
+its not in readme, but it is in last without comments
 just in case you did not find it, ill paste it here
 
 
